@@ -149,7 +149,7 @@ For engineers building or refreshing comprehensive DevSecOps expertise from scra
 | Thu | Advanced principles: GitOps, Supply Chain, Immutable Infra | [Principles & Mental Models](01-Overview/Principles-Mental-Models.md) |
 | Fri | Career paths, skills matrix, certifications | [Career Path & Roles](01-Overview/Career-Path-Roles.md) |
 | Sat | Week 1 review + whiteboard all diagrams | All Module 01 files |
-| Sun | Rest / light reading: NIST SP 800-204, CNCF Cloud Native Security Whitepaper | External references |
+| Sun | Rest / light reading: NIST SP 800-204D, CNCF Cloud Native Security Whitepaper | External references |
 
 ### Week 2 — CI/CD & Supply Chain Security
 

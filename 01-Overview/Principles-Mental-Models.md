@@ -41,7 +41,7 @@ graph LR
     subgraph ShiftLeft["✅ Shift-Left"]
         A2[🔒 Plan\nThreat Model] --> B2[🔒 Code\nIDE plugins]
         B2 --> C2[🔒 Build\nSAST + SCA]
-        C2 --> D2[🔒 Test\nDASTI + scan]
+        C2 --> D2[🔒 Test\nDAST + scan]
         D2 --> E2[🔒 Release\nPolicy gate]
         E2 --> F2[🔒 Deploy\nAdmission ctrl]
         F2 --> G2[🔒 Run\nCSPM + SIEM]
